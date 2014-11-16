@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4C449BD-EEFA-4F9E-81A0-000F6A5CA982</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Classwork5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>225CE86DC0ED62C593F8C79C127683845A07E96A</key>
+		<string>https://github.com/katrin-polyakova/Exercises.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Classwork5/Classwork5/Classwork5.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>225CE86DC0ED62C593F8C79C127683845A07E96A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/katrin-polyakova/Exercises.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>225CE86DC0ED62C593F8C79C127683845A07E96A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>225CE86DC0ED62C593F8C79C127683845A07E96A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Syntax_research</string>
+		</dict>
+	</array>
+</dict>
+</plist>
